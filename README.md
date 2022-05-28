@@ -26,4 +26,7 @@ cd kodluyoruzilkrepo
 code .
 
 
+[patika.dev](www.patika.dev)
+
+
 
